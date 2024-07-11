@@ -1,5 +1,15 @@
-## Hi there 👋
+# echo Hey Rocio! 👋
+![code](img/1.jpg)
 
+---
+
+``` php
+    echo "Bienvenido a mi GIT HUB";
+```
+
+**Un poco sobre mi**
+* Soy de Buenos Aires
+* Hice cursos de Diseño pagina web(HTML-CSS)
 <!--
 **RocioLopz/RocioLopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
